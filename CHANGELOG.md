@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-06-30)
+## Unreleased (2025-07-01)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`7088dfa`](https://github.com/stdlib-js/stdlib/commit/7088dfa1cab0860d25b5a0feb649ec572cbc1e98) - **refactor:** update paths _(by Gururaj Gurram)_
 -   [`95aed0b`](https://github.com/stdlib-js/stdlib/commit/95aed0b84a41a9eea0cad01833b4dc44285189de) - **docs:** fix description _(by Athan Reines)_
 -   [`7aa570d`](https://github.com/stdlib-js/stdlib/commit/7aa570dd5d22ef8359fad63fcc4110fe4fd05b38) - **feat:** add `stats/array/variancewd` [(#7485)](https://github.com/stdlib-js/stdlib/pull/7485) _(by Gururaj Gurram, Athan Reines, stdlib-bot)_
 
