@@ -90,7 +90,7 @@ The use of the term `n-1` is commonly referred to as Bessel's correction. Note, 
 ## Usage
 
 ```javascript
-import variancewd from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-array-variancewd@esm/index.mjs';
+import variancewd from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-array-variancewd@v0.1.1-esm/index.mjs';
 ```
 
 #### variancewd( x\[, correction] )
@@ -147,7 +147,7 @@ var v = variancewd( x, 0.0 );
 <script type="module">
 
 import discreteUniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-discrete-uniform@esm/index.mjs';
-import variancewd from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-array-variancewd@esm/index.mjs';
+import variancewd from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-array-variancewd@v0.1.1-esm/index.mjs';
 
 var x = discreteUniform( 10, -50, 50, {
     'dtype': 'float64'
